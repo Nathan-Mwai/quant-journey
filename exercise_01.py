@@ -1,3 +1,4 @@
+# Exercise 1: daily, average and highest returns
 prices=[10, 20, 30, 40, 35, 45, 15, 65, 55, 50]
 total_return = 0
 highest_return = -1
