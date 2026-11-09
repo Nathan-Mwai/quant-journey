@@ -54,4 +54,4 @@ print("Date of max daily change:", dates[position + 1])
 # Strengthening days: 77
 # Max daily change: 0.217
 # Min daily change: -0.408
-# Date of max daily change: 2026-04-13
+# Date of max daily change: 2026-04-14
